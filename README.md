@@ -1,2 +1,2 @@
-# griznogotopia-dot-vim
-My .vim setup.
+# griznogotopia-vim-pack
+My .vim pack setup.
