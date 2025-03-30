@@ -1,0 +1,6 @@
+[submodule "plugins/start/vim-yaml-folds"]
+	path = plugins/start/vim-yaml-folds
+	url = https://github.com/pedrohdz/vim-yaml-folds.git
+[submodule "syntax/start/vim-markdown"]
+	path = syntax/start/vim-markdown
+	url = https://github.com/preservim/vim-markdown.git
